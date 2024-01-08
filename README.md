@@ -1,5 +1,5 @@
 <h1> Mohammad Faizan Ahmad </h1>
-<h3 align="center">Devops & Cloud | Automation | Golang | Python </h3>
+<h3 align="center">DevOps & Cloud | Automation | Golang | Python </h3>
 <img src="https://storage.googleapis.com/pai-images/d51f5c70cbdc4970acf026f2ec248efd.jpeg" alt="img" height="200" width="200">
 
 <h3 align="left">Connect with me:</h3>
